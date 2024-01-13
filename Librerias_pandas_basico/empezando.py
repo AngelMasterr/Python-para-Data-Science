@@ -8,3 +8,4 @@ for i in range(0,10):
 print (notas_math)
 # imprimir tamaño de la lista
 print (len(notas_math))
+
